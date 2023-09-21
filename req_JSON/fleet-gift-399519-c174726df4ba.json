@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fleet-gift-399519",
+  "private_key_id": "c174726df4ba6f7c4730cc45fc6e93514b483c47",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC59FdYJcWdNe94\nqwDhicwgAFsGm8wsLZ026/opilZ6QsNZy3odcpH0UftKTbjr86er6GChS3DxJwIy\nOS5CJRzuTcwnn1NkX0NTYOw3+3YQ6xF2VF1an4hrqZ/rP2fTAYhFogpeXoRumC8p\nU7XHbDR+IGAc95IirwzpYAO6kJCqin+P58vo1iO+Rf/O+5QORptVqexT9QJhmEYN\nlypsk03UfctGZl5k2cwh+d7o8eSw/xnaX+DIrU19tve5m6jIpKNuTyTlvxRWRpVh\npE22DLtvM0WwNow/+vdiTV/Iokfvge0ElYd3UUgXAnqOYrTkT0nwWsKmZQaNIX1T\nF6178atvAgMBAAECggEAQV+lVVfyIVLU3ZdAuAm5uYZmeexL2zwuCSDs0a3QuSq/\ngtIGHFQq+7nWnki0uj7us4D+d7YN/rm4C/AOUzK4+Q5gt41Lw/25rZZldUjyOQBr\nIy6Fo1Zyn2cC0bF4zrW7Mr/E5WhVJoxaCC1lurZPvgejwotG1Oq1n1Yh+XTZZxqw\nUqhDdRn949e3BCdR1ZWsaVh6rDSVGMBDQV0HrG9aRqWa7XKGh3PZwmU0tzfgQm5m\nB8dPTlZue+DUWFgFNQTiBHRbwH9kxkXMI6kV0IFFPIhoTFiz1uQVAuC649a6EOXO\njeS1iC+wkX4SXv96xKbc1I2LU7KTpoo3MqvoeloQAQKBgQDcco+G0VR2A/Ay4PHA\nNje2IKXYFCdGE9dNwbaIP6yhc5MDmnhyeeNyuIwe/fr4FN8x6/v8xVt8oGnuFw+m\nA/9Zb/EPw2G7sWH/RFNosGcaYJpwfagnqj2apSEu2v75shsMLfjmyiKDeYCu7A5/\nWMmmStigaBPH+Y9wdRGa5eL4EwKBgQDX8bGfyasRTreiqiVRCK+VktQI0cR6BbG5\ns1dJ5HeqWzrDMXgCvYN9yXCxYTmCAaaRSOicqUzfmCcrIg3Q2HHVRITV+BuCiWXN\n1OcC9b780JQoKrkOuQeKhz3+Y3ySxwDXBPm+wWQujsQ9zMwZxAmIrNwXNRihJE4q\nDrNINJtitQKBgQDXumxmXJew3e3DfIpXtTcTziM9r4s3ctcxyq3b66P+Y2GtFw9j\nx5AjhiHpelaNS6+X5P21wVTkQv8m9f5kUmkilv9qk6Mi0FW8Ppr5She7omnAR9e0\n6U5b9djhR4JZzEfXxW1cPNdFnjOl+m+9g5/iUkBnyTICcmBChu3xjaJtbQKBgFfw\nrJZW6VyOAwiyY6oBcIfoGINS8cGDiiIG3/hOm1D8AA03mxj6lo7mNwd1gZbpFy05\nVMlfxNeVvfW504iGbK0eTz5X4NQjIhtVpZI2A8YvJvbIlz5gqaqHcv6jAzs+4Z+u\n/gnp9eNj7pUATun7RKqtQqAM1m/hOhe0jtxL2C+1AoGAKGqPMJ8e149XKPQHPgRT\neYLQuiOzAV67fheo33+i5TMiLmUYFd+EIJVVJTwgzTPfn+vuYLWuYECLuU6rGibT\nLGE94aiKDpxhJYLQqHWG1lrnlPMo2mglEiCPOFaZbrWuqQnnfnzPK3TC4UoXD7nm\niB26ZUkhqXKfYB27gd5M350=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-iitian@fleet-gift-399519.iam.gserviceaccount.com",
+  "client_id": "118445536824107032019",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-iitian%40fleet-gift-399519.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
